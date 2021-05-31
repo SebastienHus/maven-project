@@ -6,7 +6,6 @@ public class Greeter {
     }
 
     /**
-     * 
      * @param someone
      * @return
      */
