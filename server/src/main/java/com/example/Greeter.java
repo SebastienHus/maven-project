@@ -2,7 +2,7 @@ package com.example;
 
 public class Greeter {
     /**
-     * 
+     * Constructor Greeter
      */
     public Greeter() {
     }
