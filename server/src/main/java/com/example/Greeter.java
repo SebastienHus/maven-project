@@ -1,11 +1,14 @@
 package com.example;
 
-
 public class Greeter {
+    /**
+     * 
+     */
     public Greeter() {
     }
 
     /**
+     *
      * @param someone
      * @return
      */
